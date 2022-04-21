@@ -1,0 +1,7 @@
+{
+  "name": "arbro_pharma",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
